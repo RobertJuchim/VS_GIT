@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{10367DAB-1F30-44CA-8915-6267D10FA424}</ProjectGuid>
+    <ProjectGuid>{9ABE7460-6497-4F04-8B97-9C9728AC64C5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FirstApp</RootNamespace>
-    <AssemblyName>FirstApp</AssemblyName>
+    <RootNamespace>SimpleConsoleCalculator</RootNamespace>
+    <AssemblyName>SimpleConsoleCalculator</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
